@@ -1,5 +1,5 @@
 /*-------------------------------------------------*/
-/*	Name	   : Thennarasu.D		   */
+/*	Author	   : Thennarasu.D		   */
 /*	Date	   : 17feb2019			   */
 /*	Filename   : without_header.c		   */
 /*	Description: Without headerfile progrm	   */
